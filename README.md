@@ -1,5 +1,7 @@
 # Menu
 
+![menu](https://user-images.githubusercontent.com/83840866/151954506-fa62d26e-cb4f-4729-b804-434f6afba84a.gif)
+
 ## O desafio
 
 Filtrar os diferentes tipos de comida do cardápio
